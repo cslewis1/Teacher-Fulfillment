@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>300</order>
+        <published_ref/>
+        <question display_value="Role">155e113c974771107d36321ad053af2a</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>shytiara.sumner</sys_created_by>
+        <sys_created_on>2023-12-09 02:13:28</sys_created_on>
+        <sys_id>889e153c974771107d36321ad053af0d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Substitute Teacher</sys_name>
+        <sys_package display_value="Teacher Fulfillment App" source="x_1138040_teache_1">7a2871fb97f271107d36321ad053af35</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Teacher Fulfillment App">7a2871fb97f271107d36321ad053af35</sys_scope>
+        <sys_update_name>question_choice_889e153c974771107d36321ad053af0d</sys_update_name>
+        <sys_updated_by>shytiara.sumner</sys_updated_by>
+        <sys_updated_on>2023-12-09 02:13:28</sys_updated_on>
+        <text>Substitute Teacher</text>
+        <value>substitute_teacher</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=889e153c974771107d36321ad053af0d"/>
+</record_update>

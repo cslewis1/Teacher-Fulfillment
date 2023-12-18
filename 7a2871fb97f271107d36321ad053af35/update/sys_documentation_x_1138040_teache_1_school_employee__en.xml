@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="School Employee " language="en" table="x_1138040_teache_1_school_employee">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>School Employee </label>
+            <language>en</language>
+            <name>x_1138040_teache_1_school_employee</name>
+            <plural>School Employee s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-08 02:38:40</sys_created_on>
+            <sys_id>97ba90a8978331107d36321ad053af31</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>School Employee</sys_name>
+            <sys_package display_value="Teacher Fulfillment App" source="x_1138040_teache_1">7a2871fb97f271107d36321ad053af35</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Teacher Fulfillment App">7a2871fb97f271107d36321ad053af35</sys_scope>
+            <sys_update_name>sys_documentation_x_1138040_teache_1_school_employee__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-08 02:38:40</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

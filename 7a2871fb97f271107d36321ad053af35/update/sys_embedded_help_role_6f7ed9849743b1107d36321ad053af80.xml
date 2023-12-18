@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1138040_teache_1.substitute teacher" name="x_1138040_teache_1.substitute teacher">af7e99849743b1107d36321ad053af53</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>Aslocum</sys_created_by>
+        <sys_created_on>2023-12-06 18:17:45</sys_created_on>
+        <sys_id>6f7ed9849743b1107d36321ad053af80</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>af7e99849743b1107d36321ad053af53</sys_name>
+        <sys_package display_value="Teacher Fulfillment App" source="x_1138040_teache_1">7a2871fb97f271107d36321ad053af35</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Teacher Fulfillment App">7a2871fb97f271107d36321ad053af35</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6f7ed9849743b1107d36321ad053af80</sys_update_name>
+        <sys_updated_by>Aslocum</sys_updated_by>
+        <sys_updated_on>2023-12-06 18:17:45</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
