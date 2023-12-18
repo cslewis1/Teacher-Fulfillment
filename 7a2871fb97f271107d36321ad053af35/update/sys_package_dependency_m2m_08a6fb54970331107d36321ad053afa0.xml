@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
     <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
-        <dependency display_value="Service Management Basics" source="com.snc.service">b5a7b4757db1311076daf29f52070de1</dependency>
+        <dependency display_value="Service Management Basics" source="com.snc.service">0d7c9747b4a32110320f8dc279c804b5</dependency>
         <min_version>1.0.0</min_version>
         <sys_created_by>shytiara.sumner</sys_created_by>
         <sys_created_on>2023-12-08 00:00:53</sys_created_on>
-        <sys_id>08a6fb54970331107d36321ad053afa0</sys_id>
+        <sys_id>424000c0971731106f68bde3f153af24</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_package display_value="Teacher Fulfillment App" source="x_1138040_teache_1">7a2871fb97f271107d36321ad053af35</sys_package>
         <sys_updated_by>shytiara.sumner</sys_updated_by>

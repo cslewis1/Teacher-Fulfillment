@@ -27,7 +27,7 @@
         <chart_title_y_position>0</chart_title_y_position>
         <chart_width>600</chart_width>
         <color display_value="Default Color">de699435d7033100b4964ebfae610331</color>
-        <color_palette display_value="Default UI14">aa558ab3d7732100fa6c0c12ce610377</color_palette>
+        <color_palette display_value="Qualitative - Regular color scheme (11)">6389a0889fac73001bb9baac757fcfa5</color_palette>
         <colors/>
         <column/>
         <compute_percent>aggregate</compute_percent>
@@ -106,14 +106,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-09 23:20:29</sys_created_on>
         <sys_id>7780060597c7b1107d36321ad053afb9</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>Employee Count Per School</sys_name>
         <sys_package display_value="Teacher Fulfillment App" source="x_1138040_teache_1">7a2871fb97f271107d36321ad053af35</sys_package>
         <sys_policy/>
         <sys_scope display_value="Teacher Fulfillment App">7a2871fb97f271107d36321ad053af35</sys_scope>
         <sys_update_name>sys_report_7780060597c7b1107d36321ad053afb9</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-12-09 23:20:29</sys_updated_on>
+        <sys_updated_on>2023-12-12 01:21:38</sys_updated_on>
         <table>x_1138040_teache_1_school_employee</table>
         <title>Employee Count Per School</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
