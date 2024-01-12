@@ -45,7 +45,7 @@
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
-        <owner display_value="Shytiara  Sumner">6fd33a7d97b631107d36321ad053afa3</owner>
+        <owner display_value="">6fd33a7d97b631107d36321ad053afa3</owner>
         <picture>66cb4dc997c3b1107d36321ad053af98</picture>
         <post_insert_script><![CDATA[/**
 * This script is executed after the record is generated. 

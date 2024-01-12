@@ -52,14 +52,13 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-12-08 02:38:40</sys_created_on>
-        <sys_id>1bba90a8978331107d36321ad053af17</sys_id>
         <sys_name>x_1138040_teache_1_school_employee</sys_name>
         <sys_package display_value="Teacher Fulfillment App" source="x_1138040_teache_1">7a2871fb97f271107d36321ad053af35</sys_package>
         <sys_policy/>
         <sys_scope display_value="Teacher Fulfillment App">7a2871fb97f271107d36321ad053af35</sys_scope>
         <sys_update_name>sys_dictionary_x_1138040_teache_1_school_employee_null</sys_update_name>
         <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2023-12-10 11:19:52</sys_updated_on>
+        <sys_updated_on>2023-12-19 10:49:46</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

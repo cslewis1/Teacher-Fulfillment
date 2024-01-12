@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="68b879fb97f271107d36321ad053afa5" extends="task" label="Teacher Requests " max_length="40" name="x_1138040_teache_1_teacher_requests" type="collection">
+        <element label="Date of non-availability" mandatory="true" max_length="40" name="date_of_non_availability" type="glide_date"/>
+        <element label="District" max_length="40" name="district" type="string"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" dependent="u_reference_1" dependent_on_field="u_reference_1" label="Email" mandatory="true" max_length="32" name="full_name" reference="x_1138040_teache_1_school_employee" type="reference" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Grade" max_length="40" name="grade" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="First" sequence="0" value="first"/>
+                <element inactive_on_update="false" label="Second" sequence="1" value="second"/>
+                <element inactive_on_update="false" label="Third" sequence="2" value="third"/>
+                <element inactive_on_update="false" label="Fourth" sequence="3" value="fourth"/>
+                <element inactive_on_update="false" label="Fifth" sequence="4" value="fifth"/>
+            </choice>
+        </element>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="Reason (optional)" max_length="100" name="reason_optional" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Role" max_length="40" name="role" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Principle" sequence="0" value="principle"/>
+                <element inactive_on_update="false" label="Teacher" sequence="1" value="teacher"/>
+                <element inactive_on_update="false" label="Substitute Teacher" sequence="2" value="substitute_teacher"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" label="Subject" max_length="40" name="subject" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="English" sequence="0" value="english"/>
+                <element inactive_on_update="false" label="History" sequence="1" value="history"/>
+                <element inactive_on_update="false" label="Math" sequence="2" value="math"/>
+                <element inactive_on_update="false" label="Science" sequence="3" value="science"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Full Name" mandatory="true" max_length="32" name="u_reference_1" reference="x_1138040_teache_1_school_employee" type="reference"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" dependent="u_reference_2" dependent_on_field="u_reference_2" label="Assigned To" max_length="32" name="u_reference_2" reference="x_1138040_teache_1_school_employee" type="reference" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true,encode_utf8=false" label="Email" mandatory="true" max_length="32" name="u_reference_3" reference="x_1138040_teache_1_school_employee" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" mandatory="true" max_length="40" name="u_string_5" type="string"/>
+    </element>
+</database>

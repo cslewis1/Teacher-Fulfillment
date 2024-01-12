@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="93c918e4978331107d36321ad053af1a" extends="sys_user" label="School Employee " max_length="40" name="x_1138040_teache_1_school_employee" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Full Name" max_length="40" name="full_name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

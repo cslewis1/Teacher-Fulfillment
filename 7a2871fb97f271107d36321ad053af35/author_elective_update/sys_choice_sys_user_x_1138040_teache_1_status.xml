@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>shytiara.sumner</sys_created_by>
             <sys_created_on>2023-12-07 01:42:03</sys_created_on>
-            <sys_id>08344f8897c7b1107d36321ad053afd8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_1138040_teache_1_status</sys_name>
             <sys_package display_value="Teacher Fulfillment App" source="x_1138040_teache_1">7a2871fb97f271107d36321ad053af35</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2023-12-07 01:42:03</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>80344f8897c7b1107d36321ad053afd8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>shytiara.sumner</sys_updated_by>
             <sys_updated_on>2023-12-07 01:42:03</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2023-12-07 01:42:03</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>c0344f8897c7b1107d36321ad053afe4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>shytiara.sumner</sys_updated_by>
             <sys_updated_on>2023-12-07 01:42:03</sys_updated_on>
